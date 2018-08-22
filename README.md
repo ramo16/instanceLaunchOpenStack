@@ -8,7 +8,7 @@ Download DevStack
 		$ git clone https://git.openstack.org/openstack-dev/devstack
 		$ cd devstack
 
-The devstack repo contains a script that installs OpenStack and templates for configuration files
+The devstack repository contains a script that installs OpenStack and templates for configuration files
 Create a local.conf
 
 ### Create a local.conf file with 4 passwords present at the root of the devstack
